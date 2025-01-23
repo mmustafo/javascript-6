@@ -142,3 +142,5 @@
 // }else{
 //      console.log("hato");
 // }
+
+// assalomu aleykum ustoz 11ta misolni 100% ishlanmagan 

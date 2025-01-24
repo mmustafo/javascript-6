@@ -102,13 +102,38 @@
 // for (let i = 1; i <= n; i++) {
 //   let row = "";
 //   for (let j = 1; j <= i; j++) {
-//     row += j + " ";
-//   }
-//   console.log(row.trim());
-// }
-
-// while 1
-// let a = 12
+     //     row += j + " ";
+     //   }
+     //   console.log(row.trim());
+     // }
+     // for 14
+     // let n = 7, sum = 1
+     
+     // for (let i = 1; i<=n; i++){
+     //      sum *= i
+     // }
+     // console.log(sum);
+     
+     
+     // for 15
+     // let n = 5
+     // let k = 6
+     // for (let i=0; i<)
+     // for 16
+     // let k = 2, n = 5, sum = 0
+     // for (let i= 0; i<=n; i++){
+     //      sum +=i **k
+     // }
+     // console.log(sum);
+     // for 16
+     // let  n = 5, sum = 0
+     // for (let i= 0; i<=n; i++){
+     //      sum +=i **i
+     // }
+     // console.log(sum);
+     
+     // while 1
+ // let a = 12
 // let b = 5;  
 // if(a>b){
 //      let counter = a
@@ -117,6 +142,8 @@
 //      }
 //      console.log(`A ${a} uzunlikdagi kesmada malsimal  ${b} bo'sh qismi: ${counter}`);
 // }
+
+
 
 // while 2
 // let a = 13;
@@ -128,6 +155,15 @@
 //   counter++;
 // }
 // console.log(counter);
+// while 9
+// let number = (123321).toString()
+// let sum = ''
+// let i = number.length - 1
+// while (i >= 0) {
+//      sum+= number[i]
+//      i--
+// }
+// console.log(+number == +sum); 
 // while 10
 // let n = 4
 // if (n > 1) {
@@ -143,4 +179,4 @@
 //      console.log("hato");
 // }
 
-// assalomu aleykum ustoz 11ta misolni 100% ishlanmagan 
+
